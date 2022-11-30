@@ -53,7 +53,6 @@ expo start
 Then make sure that your computer and your mobile device are connected the same stable network (wi-fi). Install and open Expo Go on your mobile device. Scan the QR code and the app will appear. It can take some time to load for the first time. Have fun 🥳
 
 <br>
-<br>
 
 ## Walkthrough video
 <img src="/assets/screen-video.gif" height="500">
