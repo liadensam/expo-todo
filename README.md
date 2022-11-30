@@ -14,10 +14,10 @@ You can test it yourself if you [click on this link](https://expo.dev/@liadensam
 - or it will redirect you to the Expo Go and you can start trying it
 
 
-<img src="/assets/front-app.jpg" height="400">
+<img src="/assets/front-app.jpg" height="500">
 
 
-![using app](/assets/using-app.jpg)
+<img src="/assets/using-app.jpg" height="500">
 
 
 Another possibility is to clone the repository:
@@ -44,6 +44,5 @@ expo start
 Then make sure that your computer and your mobile device are connected the same stable network (wi-fi). Install and open Expo Go on your mobile device. Scan the QR code and the app will appear. It can take some time to load for the first time. Have fun 🥳
 
 
-
-![screen recording](/assets/screen-video.gif)
+<img src="/assets/screen-video.gif" height="500">
 
