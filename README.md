@@ -14,7 +14,9 @@ You can test it yourself if you [click on this link](https://expo.dev/@liadensam
 - or it will redirect you to the Expo Go and you can start trying it
 
 
-![front app](/assets/front-app.jpg | width=100)
+![front app](/assets/front-app.jpg)
+
+![front app]<img src="/assets/front-app.jpg" width="200" height="400">
 
 
 ![using app](/assets/using-app.jpg)
