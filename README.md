@@ -16,7 +16,7 @@ You can test it yourself if you [click on this link](https://expo.dev/@liadensam
 
 ![front app](/assets/front-app.jpg)
 
-![front app]<img src="/assets/front-app.jpg" width="200" height="400">
+<img src="/assets/front-app.jpg" width="400" height="600">
 
 
 ![using app](/assets/using-app.jpg)
