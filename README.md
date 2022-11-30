@@ -4,9 +4,11 @@
 
 I created an application with [React Native](https://reactnative.dev/docs/environment-setup) which runs on my Android device using [Expo Go](https://expo.dev/client).
 
+<br>
 
 ![VS Code terminal](/assets/vs-code-terminal.png)
 
+<br>
 <br>
 
 You can test it yourself if you [click on this link](https://expo.dev/@liadensam/TodoApp) with your phone:
@@ -15,7 +17,7 @@ You can test it yourself if you [click on this link](https://expo.dev/@liadensam
 - it will either let you know to install Expo Go
 - or it will redirect you to the Expo Go and you can start trying it
 
-
+<br>
 <br>
 
 <img src="/assets/front-app.jpg" height="500">
@@ -32,14 +34,14 @@ Another possibility is to clone the repository:
 git clone https://github.com/liadensam/expo-todo.git
 ```
 
-
+<br>
 And then install all dependencies  with:
 
 ```sh
 npm install
 ```
 
-
+<br>
 And then run it by using:
 
 
