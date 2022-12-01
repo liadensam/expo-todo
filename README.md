@@ -42,6 +42,16 @@ npm install
 ```
 
 <br>
+
+Go to the folder
+
+
+```sh
+cd expo-todo
+```
+
+
+<br>
 And then run it by using:
 
 
