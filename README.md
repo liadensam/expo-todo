@@ -34,12 +34,6 @@ Another possibility is to clone the repository:
 git clone https://github.com/liadensam/expo-todo.git
 ```
 
-<br>
-And then install all dependencies  with:
-
-```sh
-npm install
-```
 
 <br>
 
@@ -50,6 +44,12 @@ Go to the folder
 cd expo-todo
 ```
 
+<br>
+And then install all dependencies  with:
+
+```sh
+npm install
+```
 
 <br>
 And then run it by using:
